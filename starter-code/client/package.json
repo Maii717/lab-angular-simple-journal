@@ -24,11 +24,12 @@
     "@angular/router": "^4.4.3",
     "core-js": "^2.4.1",
     "rxjs": "^5.0.1",
+    "schematics": "^0.2.0",
     "ts-helpers": "^1.1.1",
     "zone.js": "^0.7.2"
   },
   "devDependencies": {
-    "@angular/cli": "^1.4.3",
+    "@angular/cli": "^1.5.5",
     "@angular/compiler-cli": "^4.4.3",
     "@types/jasmine": "2.5.38",
     "@types/node": "^6.0.42",
@@ -43,6 +44,7 @@
     "protractor": "~4.0.13",
     "ts-node": "1.2.1",
     "tslint": "^4.3.0",
-    "typescript": "^2.3.4"
+    "typescript": "^2.3.4",
+    "webpack-dev-server": "^2.9.5"
   }
 }
